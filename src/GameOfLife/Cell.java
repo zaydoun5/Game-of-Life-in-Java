@@ -7,7 +7,7 @@ package GameOfLife;
  * 
  */
 public final class Cell {
-
+/* test */ 
 	public int x;
 	public int y;
 
